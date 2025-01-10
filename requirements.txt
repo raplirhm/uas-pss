@@ -1,0 +1,5 @@
+django          # frameworknya
+psycopg2-binary # driver postgres
+pillow          # untuk mengolah gambar
+django-ninja
+django-ninja-simple-jwt
